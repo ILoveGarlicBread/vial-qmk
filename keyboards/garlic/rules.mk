@@ -1,0 +1,3 @@
+
+STENO_ENABLE = yes
+STENO_PROTOCOL = geminipr
